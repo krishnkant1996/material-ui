@@ -4,7 +4,7 @@
 
 Looking for the v4 docs? [Encontre-os aqui](https://material-ui.com/versions/).
 
-> Este documento está em constante evolução. Você atualizou seu site e encontrou algo que não é abordado aqui? [Adicione suas alterações no GitHub](https://github.com/mui-org/material-ui/blob/next/docs/src/pages/guides/migration-v4/migration-v4.md).
+> Este documento está em constante evolução. Você atualizou seu site e encontrou algo que não é abordado aqui? [Adicione suas alterações no GitHub](https://github.com/mui-org/material-ui/blob/HEAD/docs/src/pages/guides/migration-v4/migration-v4.md).
 
 ## Introdução
 
