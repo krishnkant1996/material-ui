@@ -4,7 +4,7 @@
 
 ¿Buscando la documentación v4? [Encuéntralos aquí](https://material-ui.com/versions/).
 
-> Este documento es un trabajo en curso. ¿Ha actualizado su sitio y se ha topado con algo que no está cubierto aquí? Have you upgraded your site and run into something that's not covered here? [Add your changes on GitHub](https://github.com/mui-org/material-ui/blob/next/docs/src/pages/guides/migration-v4/migration-v4.md).
+> Este documento es un trabajo en curso. ¿Ha actualizado su sitio y se ha topado con algo que no está cubierto aquí? [Añade tus cambios en GitHub](https://github.com/mui-org/material-ui/blob/HEAD/docs/src/pages/guides/migration-v4/migration-v4.md).
 
 ## Introducción
 
